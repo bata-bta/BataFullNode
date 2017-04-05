@@ -1,0 +1,2 @@
+# BataFullNode
+Bata Full Node
